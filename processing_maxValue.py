@@ -1,5 +1,4 @@
 import os
-#get the max value of table
 from pandas import Series, DataFrame
 import pandas as pd
 import numpy as np
